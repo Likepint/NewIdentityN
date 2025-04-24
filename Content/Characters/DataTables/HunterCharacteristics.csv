@@ -1,0 +1,2 @@
+Name,SkeletalMesh,AnimInstanceClass,NormalSpeed,SkillSpeed,FearRadius
+Naiad,/Script/Engine.SkeletalMesh'/Game/Characters/Naiad/Meshes/Naiad.Naiad',/Script/Engine.AnimBlueprint'/Game/Characters/Naiad/ABP_Naiad.ABP_Naiad_C',464,603.2,3207
